@@ -1,0 +1,7 @@
+# Projects
+
+## Web Analytics Coursework
+In this course, I have worked on projects involving GitHub, Quarto, AWS, SQL, and Spark. These projects helped me build practical skills in reproducible analytics workflows. I don't have many personal project linked to the content we have discussed in this class as this is a fairly new content area for me, but I have been able to apply some of the concepts and tools we have learned in my current role as a Senior Financial Analyst. For example, I have used SQL to query databases and extract data for financial analysis, and I have also used AWS to store and analyze large datasets.
+
+While doing so in this course, I did have the opportunity to obtain a couple of AWS certifications, which I am very proud of. I obtained the AWS Certified Cloud Practitioner and AWS Certified Data Analytics - Specialty certifications, which have helped me gain a deeper understanding of cloud computing and data analytics concepts. In doing so, I helped my company become a certified AWS partner, which has opened up new opportunities for us to work with clients in the cloud computing space.
+
