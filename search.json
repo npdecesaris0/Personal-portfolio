@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "CV\nYou can download my resume below:\nDownload My Resume"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "my-website",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Contact\nYou can reach me through the following channels:\n\nEmail: npd9274@bu.edu\nGitHub: https://github.com/npdecesaris0\nLinkedIn: https://www.linkedin.com/in/nicholas-decesaris-bb64101a9\n\nI welcome opportunities to connect professionally and discuss analytics, technology, and project work."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "In this course, I have worked on projects involving GitHub, Quarto, AWS, SQL, and Spark. These projects helped me build practical skills in reproducible analytics workflows. I don’t have many personal project linked to the content we have discussed in this class as this is a fairly new content area for me, but I have been able to apply some of the concepts and tools we have learned in my current role as a Senior Financial Analyst. For example, I have used SQL to query databases and extract data for financial analysis, and I have also used AWS to store and analyze large datasets.\nWhile doing so in this course, I did have the opportunity to obtain a couple of AWS certifications, which I am very proud of. I obtained the AWS Certified Cloud Practitioner and AWS Certified Data Analytics - Specialty certifications, which have helped me gain a deeper understanding of cloud computing and data analytics concepts. In doing so, I helped my company become a certified AWS partner, which has opened up new opportunities for us to work with clients in the cloud computing space."
+  },
+  {
+    "objectID": "projects.html#web-analytics-coursework",
+    "href": "projects.html#web-analytics-coursework",
+    "title": "Projects",
+    "section": "",
+    "text": "In this course, I have worked on projects involving GitHub, Quarto, AWS, SQL, and Spark. These projects helped me build practical skills in reproducible analytics workflows. I don’t have many personal project linked to the content we have discussed in this class as this is a fairly new content area for me, but I have been able to apply some of the concepts and tools we have learned in my current role as a Senior Financial Analyst. For example, I have used SQL to query databases and extract data for financial analysis, and I have also used AWS to store and analyze large datasets.\nWhile doing so in this course, I did have the opportunity to obtain a couple of AWS certifications, which I am very proud of. I obtained the AWS Certified Cloud Practitioner and AWS Certified Data Analytics - Specialty certifications, which have helped me gain a deeper understanding of cloud computing and data analytics concepts. In doing so, I helped my company become a certified AWS partner, which has opened up new opportunities for us to work with clients in the cloud computing space."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Who is Nicholas DeCesaris?",
+    "section": "",
+    "text": "About Me\nHello, my name is Nick DeCesaris. I am a student in the AD 688 Web Analytics course with interests in data analytics, cloud computing, and machine learning.\nI am currently a Senior Financial Analyst at a small federally contracted IT consulting company. I have been there for over 5 years now and have been able to grow my skills in financial analysis, forecasting, and budgeting. I have also had the opportunity to work with varioous individuals who specialize in data analytics and machine learning, which has sparked my interest in those areas.\nMy personal interests include watching and playing hockey and golf, as well as spending time with my two crazy dogs, Moose and Olive. I also enjoy traveling and try to as much as work allows. I also enjoy running, and completed my first marathon in November of 2025, completing the Philadelphia Marathon."
+  }
+]
