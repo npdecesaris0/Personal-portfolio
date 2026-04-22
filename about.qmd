@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Who is Nicholas DeCesaris?"
 ---
 
 # About Me
@@ -8,6 +8,7 @@ Hello, my name is Nick DeCesaris. I am a student in the AD 688 Web Analytics cou
 
 I am currently a Senior Financial Analyst at a small federally contracted IT consulting company. I have been there for over 5 years now and have been able to grow my skills in financial analysis, forecasting, and budgeting. I have also had the opportunity to work with varioous individuals who specialize in data analytics and machine learning, which has sparked my interest in those areas.
 
-My personal interests include watching and playing hockey and golf, as well as spending time with my two crazy dogs, Moose and Olive. I also enjoy traveling and try to as much as work allows.
+My personal interests include watching and playing hockey and golf, as well as spending time with my two crazy dogs, Moose and Olive. I also enjoy traveling and try to as much as work allows. I also enjoy running, and completed my first marathon in November of 2025, completing the Philadelphia Marathon.
 
 
+![](my-website/IMG_4362.heic){width=200px fig-align="center"}

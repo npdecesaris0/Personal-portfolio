@@ -2,7 +2,9 @@ project:
   type: website
 
 website:
-  title: "Your Name"
+  title: "Nicholas DeCesaris - Portfolio"
+  page-footer:
+    center: "© 2026 Nicholas DeCesaris. Built with Quarto."
   navbar:
     left:
       - text: About You
@@ -16,7 +18,8 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: minty
+    css: styles.css
     toc: true
 
 
