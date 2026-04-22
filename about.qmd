@@ -11,4 +11,4 @@ I am currently a Senior Financial Analyst at a small federally contracted IT con
 My personal interests include watching and playing hockey and golf, as well as spending time with my two crazy dogs, Moose and Olive. I also enjoy traveling and try to as much as work allows. I also enjoy running, and completed my first marathon in November of 2025, completing the Philadelphia Marathon.
 
 
-![](my-website/IMG_4362.heic){width=200px fig-align="center"}
+![](my-website/IMG_4362.jpeg){width=200px fig-align="center"}
